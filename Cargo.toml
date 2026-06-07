@@ -1,0 +1,12 @@
+[package]
+name = "harmonic-plr-rs"
+version = "0.1.0"
+edition = "2021"
+description = "PLR group operations for neo-Riemannian chord transformations on major/minor triads"
+license = "MIT"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/harmonic-plr-rs"
+keywords = ["music", "harmony", "neo-riemannian", "plr", "triads"]
+categories = ["mathematics", "algorithms"]
+
+[dependencies]
